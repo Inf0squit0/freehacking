@@ -10,13 +10,13 @@ List of hacking, penetration testing, exploit &amp; malware dev resources that d
 	- Sam Bowne CNIT123: Ethical Hacking https://samsclass.info/123/123_F24.shtml
 	- Sam Bowne CNIT124: Advance Ethical Hacking https://samsclass.info/124/124_F17.shtml
 - ### Web
-	- Portswigger Academy
-	- OWASP Juice Shop & walkthrough videos
+	- Portswigger Academy https://portswigger.net/web-security
+	- OWASP Juice Shop & walkthrough videos https://owasp.org/www-project-juice-shop/
 - ### Active Directory
 	- Game of Active Directory (Requires 32GB+ of RAM for the full lab to run smoothly plus your host OS and attacker OS) https://github.com/Orange-Cyberdefense/GOAD
 - ### Exploit & Malware Development
-	- Exploit-Education
-	- Nightmare CTF?
+	- Exploit-Education https://exploit.education/
+	- Nightmare CTF https://guyinatuxedo.github.io/
 	- Sam Bowne CNIT127: Exploit Development https://samsclass.info/127/127_S23.shtml
 	- Sam Bowne CNIT126: Practical Malware Analysis https://samsclass.info/126/126_S24.shtml
 - ### Operational Technology Security
