@@ -30,4 +30,5 @@ List of hacking, penetration testing, exploit &amp; malware dev resources that d
 	- Sam Bowne CNIT121: Computer Forensics https://samsclass.info/121/121_S24.shtml
 
 ## Free Version Exists But Paid is Better
+
 	- IppSec videos (may require paying for HTB)
