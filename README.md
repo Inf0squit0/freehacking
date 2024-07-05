@@ -31,4 +31,4 @@ List of hacking, penetration testing, exploit &amp; malware dev resources that d
 
 ## Free Version Exists But Paid is Better
 
-	- IppSec videos (may require paying for HTB)
+- IppSec videos (may require paying for HTB)
