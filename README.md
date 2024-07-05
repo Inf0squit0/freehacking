@@ -1,6 +1,8 @@
 # freehacking
 List of hacking, penetration testing, exploit &amp; malware dev resources that do not cost money to access
 
+## Complete Free
+
 - Download Kali Linux: https://kali.org
 	- Kali Linux Revealed free course from OffSec: https://portal.offsec.com/courses/pen-103-16306/learning/modules
 - ### Network & Infrastructure
@@ -26,3 +28,6 @@ List of hacking, penetration testing, exploit &amp; malware dev resources that d
 - ### Defensive/Blue Team Stuff
 	- Sam Bowne CNIT152: Incident Response https://samsclass.info/152/152_S24.shtml
 	- Sam Bowne CNIT121: Computer Forensics https://samsclass.info/121/121_S24.shtml
+
+## Free Version Exists But Paid is Better
+	- IppSec videos (may require paying for HTB)
