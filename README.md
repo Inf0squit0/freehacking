@@ -9,6 +9,8 @@ Other than password cracking and some niche cases involving virtual machines (se
 
 - Download Kali Linux: https://kali.org
 	- Kali Linux Revealed free course from OffSec: https://portal.offsec.com/courses/pen-103-16306/learning/modules
+- ### CTFs for learning
+	- PicoCTF:  https://play.picoctf.org
 - ### Network & Infrastructure
 	- TCM's tutorial videos: https://www.youtube-nocookie.com/embed/3FNYvj2U0HM
 	- Sam Bowne CNIT123: Ethical Hacking https://samsclass.info/123/123_F24.shtml
