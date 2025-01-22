@@ -5,6 +5,8 @@ List of hacking, penetration testing, exploit &amp; malware dev resources that d
 
 Other than password cracking and some niche cases involving virtual machines (see an example below), hacking doesn't actually require high-end hardware - a laptop with 16GB of RAM and integrated graphics will work just fine. A laptop with 32GB of RAM and integrated graphics will last you a very long time, especially if you install Linux on it. If you want a dedicated hacking and/or Linux laptop, buy a Thinkpad or Dell Latitude with 16GB of RAM or more off of ebay. Last time I checked you can get a decent laptop that can run Linux and do most hacking things for a few hundred dollars USD. If you're going to be learning hacking from your daily use Windows or Mac laptop, 16-32GB of RAM should still be fine. 
 
+If you're really getting into this and want to explore more advanced topics like Active Directory attacks, then you might want to make sure you have a computer with 32-64GB of RAM to run multiple virtual machines like the full GOAD lab, but that's optional, especially if you're just getting started and/or limited by budget considerations. You could still easily find a laptop capable of running Linux and the full GOAD lab for $500 USD, possibly less, as long as you're willing to install Linux on a laptop yourself. 
+
 ## Complete Free
 
 - Download Kali Linux: https://kali.org
