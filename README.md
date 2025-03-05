@@ -7,7 +7,7 @@ Other than password cracking and some niche cases involving virtual machines (se
 
 If you're really getting into this and want to explore more advanced topics like Active Directory attacks, then you might want to make sure you have a computer with 32-64GB of RAM to run multiple virtual machines like the full GOAD lab, but that's optional, especially if you're just getting started and/or limited by budget considerations. You could still easily find a laptop capable of running Linux and the full GOAD lab for $500 USD, possibly less, as long as you're willing to install Linux on a laptop yourself. 
 
-## Complete Free
+## Completely Free
 
 - Download Kali Linux: https://kali.org
 	- Kali Linux Revealed free course from OffSec: https://portal.offsec.com/courses/pen-103-16306/learning/modules
