@@ -28,6 +28,7 @@ If you're really getting into this and want to explore more advanced topics like
  	- OverflowMe (WIP) https://github.com/digitalandrew/overflowme
 	- Sam Bowne CNIT127: Exploit Development https://samsclass.info/127/127_S23.shtml
 	- Sam Bowne CNIT126: Practical Malware Analysis https://samsclass.info/126/126_S24.shtml
+ 	- OpenSecurityTraining(2): https://ost2.fyi
 - ### Operational Technology Security
 	- Sam Bowne: Operational Technology Security https://samsclass.info/OT/OT_S24.shtml
 - ### Mobile Pentesting
