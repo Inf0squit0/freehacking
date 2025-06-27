@@ -13,10 +13,12 @@ If you're really getting into this and want to explore more advanced topics like
 	- Kali Linux Revealed free course from OffSec: https://portal.offsec.com/courses/pen-103-16306/learning/modules
 - ### CTFs for learning
 	- PicoCTF:  https://play.picoctf.org
+- ### Multi-subject
+  	- PwnCollege: https://pwn.college
 - ### Network & Infrastructure
 	- TCM's tutorial videos: https://www.youtube-nocookie.com/embed/3FNYvj2U0HM
 	- Sam Bowne CNIT123: Ethical Hacking https://samsclass.info/123/123_F24.shtml
-	- Sam Bowne CNIT124: Advance Ethical Hacking https://samsclass.info/124/124_F17.shtml
+	- Sam Bowne CNIT124: Advanced Ethical Hacking https://samsclass.info/124/124_F17.shtml
 - ### Web
 	- Portswigger Academy https://portswigger.net/web-security
 	- OWASP Juice Shop & walkthrough videos https://owasp.org/www-project-juice-shop/
@@ -29,6 +31,7 @@ If you're really getting into this and want to explore more advanced topics like
 	- Sam Bowne CNIT127: Exploit Development https://samsclass.info/127/127_S23.shtml
 	- Sam Bowne CNIT126: Practical Malware Analysis https://samsclass.info/126/126_S24.shtml
  	- OpenSecurityTraining(2): https://ost2.fyi
+  	- ROP Emporium (this is intermediate-level stuff, don't start here until you've done some intro exploit dev stuff): https://ropemporium.com/
 - ### Operational Technology Security
 	- Sam Bowne: Operational Technology Security https://samsclass.info/OT/OT_S24.shtml
 - ### Mobile Pentesting
