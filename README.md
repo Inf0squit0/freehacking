@@ -33,6 +33,7 @@ If you're really getting into this and want to explore more advanced topics like
  	- OpenSecurityTraining(2): https://ost2.fyi
   	- ROP Emporium (this is intermediate-level stuff, don't start here until you've done some intro exploit dev stuff): https://ropemporium.com/
   		- Full walkthrough of the ROP Emporium exercises: https://youtu.be/oBZy0bGNezo?si=LFQUZje-daNflFAE
+  	- 10-part tutorial on beginner and intermediate Windows exploit development: https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/
 - ### Operational Technology Security
 	- Sam Bowne: Operational Technology Security https://samsclass.info/OT/OT_S24.shtml
 - ### Mobile Pentesting
