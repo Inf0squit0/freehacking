@@ -32,6 +32,7 @@ If you're really getting into this and want to explore more advanced topics like
 	- Sam Bowne CNIT126: Practical Malware Analysis https://samsclass.info/126/126_S24.shtml
  	- OpenSecurityTraining(2): https://ost2.fyi
   	- ROP Emporium (this is intermediate-level stuff, don't start here until you've done some intro exploit dev stuff): https://ropemporium.com/
+  		- Full walkthrough of the ROP Emporium exercises: https://youtu.be/oBZy0bGNezo?si=LFQUZje-daNflFAE
 - ### Operational Technology Security
 	- Sam Bowne: Operational Technology Security https://samsclass.info/OT/OT_S24.shtml
 - ### Mobile Pentesting
